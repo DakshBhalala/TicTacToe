@@ -11,7 +11,7 @@ This is a graphical user interface (GUI) implementation of Tic-Tac-Toe using Pyt
 ## How to Play
 1. Clone or download the repository.
 2. Install Python (if not already installed).
-3. Run `python tic_tac_toe_gui.py` to start the game.
+3. Run the game.
 
 ## Screenshots (Optional)
 ![Game Screenshot](screenshot.png)
